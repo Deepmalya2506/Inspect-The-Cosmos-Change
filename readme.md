@@ -18,8 +18,8 @@
 - 🖥️ Visualized results interactively with **ipyaladin** on a 3D skymap
 - 📊 Validated anomalies with statistical summaries and visual sanity checks
 
-<img src="Version01\media\Screenshot 2025-11-26 001112.png"/>
-<img src="Version01\media\Screenshot 2025-11-26 001247.png"/>
+<img src="https://github.com/Deepmalya2506/Inspect-The-Cosmos-Change/blob/main/media/Screenshot%202025-11-26%20001112.png"/>
+<img src="https://github.com/Deepmalya2506/Inspect-The-Cosmos-Change/blob/main/media/Screenshot%202025-11-26%20001247.png"/>
 ---
 
 ### 🚀 What’s Coming in Version 2.0
