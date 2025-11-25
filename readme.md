@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/DEEPMALYA/OneDrive/Desktop/pip_Malya/Astronomy/Aries/media/banner.png?version%3D1764056746359" alt="Cosmic Anomaly Detection Banner" />
+  <img src="https://github.com/Deepmalya2506/Inspect-The-Cosmos-Change/blob/main/media/banner.png?raw=true" alt="Cosmic Anomaly Detection Banner" />
 </p>
 
 > ------------------------------------------------------------------------
