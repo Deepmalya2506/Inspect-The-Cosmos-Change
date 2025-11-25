@@ -1,0 +1,8 @@
+astropy
+ipyaladin
+matplotlib
+astroquery
+pandas
+ipywidgets
+ydata_profiling
+seaborn
